@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>SJTU.</a>Shanghai. gtk0615@sjtu.edu.cn.
+subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University;Email:gtk0615@sjtu.edu.cn.</a>
 
 profile:
   align: right
