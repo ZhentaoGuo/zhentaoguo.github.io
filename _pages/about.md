@@ -26,9 +26,8 @@ Recently, I am interested in these areas:
 - End-to-end Text Detection
 - Representation Learning
 
-<h1 style="font-family: Arial, sans-serif; font-weight: bold;">*Education Experience*</h1>
+<h1 style="font-family: Arial, sans-serif; font-weight: bold;">Education Experience</h1>
 <!-- Education Experience -->
-=== 
 - **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学, SJTU), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. Wei Shen.
 
 - **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学, SJTU), Shanghai, China, with the National Scholarship! Supervisor: Dr. Chaochen Gu.
