@@ -23,3 +23,86 @@ Tongkun Guan received the M.S. degree in the Department of Automation from Shang
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
 <!--Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
+
+<!-- >I look forward to starting a meaningful and wonderful Ph.D. period and proceeding with the corresponding exercise after my M.S. graduation in 2020. It would be very grateful for your passionate advice~~ -->  
+
+News
+=== 
+- One research paper about [Few-shot Keypoint Detection (FSKD)](https://openaccess.thecvf.com/content/CVPR2022/html/Lu_Few-Shot_Keypoint_Detection_With_Uncertainty_Learning_for_Unseen_Species_CVPR_2022_paper.html) gets accepted by **CVPR'22**.
+- Two co-authored papers get accepted by **ACCV'22** (Re. [Deep General Ellipse detection](https://github.com/One1h/ElDet)) and **ICONIP'22** (Re. Fast Stain Color Normalization). One co-authored paper about [industrial scene text detection](https://ieeexplore.ieee.org/abstract/document/9726175/) gets accepted by **IEEE TCSVT**.
+- Two papers about domain adaptation/transfer learning published in **ICONIP'18** and **Neurocomputing**. [[here](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en)]
+- Our [High-quality Ellipse Detector](https://github.com/AlanLuSun/High-quality-ellipse-detection) gets accepted by **IEEE T-IP** and exceeds 300+ stars in github (rank top1 so far). We also have an **IEEE ICIP** version for [circle detection](https://github.com/AlanLuSun/Circle-detection).
+
+
+Awards and Honors
+===  
+[Outstanding reviewer for ECCV 2022](https://eccv2022.ecva.net/program/outstanding-reviewers/), 2022-10-19
+
+---
+*Outstanding Thesis Award for master graduate student, awarded by Shanghai  Association of Automation (CAA)*, 2021-01-18  
+
+---
+*Outstanding Graduate Student in Shanghai*, 2020-3.  
+
+---
+*National Scholarship* for graduate student (*Two times*, 2019-9, 2017-11).  
+
+---
+*2018 Scholarship of 14th Research Institute of China Electronics Technology Corporation*, 2018-12.  
+
+---
+*The Excellent League Member of Shanghai Jiao Tong University*, 2018-5.  
+
+---
+*[2017 First class award for excellent undergraduate thesis of universities in Jiangsu province](http://jyt.jiangsu.gov.cn/art/2018/9/7/art_58320_7810502.html)*, 2018-4.   
+
+---
+*Outstanding Undergraduate of Southeast University*, 2017-6.  
+
+---
+*Envision future Scholarship*, 2017-6.
+
+---
+*Provincial First Prize of National Electronic Design Competition (UEDC)*, two times in 2016 and 2015.  
+
+---
+*President Scholarship of Southeast University*, 2014.
+
+---
+*Merit Student of Southeast University*, 2014.
+
+---
+*First Prize of Advanced Mathematics Competition*, 2014.  
+
+[[go top](https://alanlusun.github.io/)]  
+
+Professional Activity  
+===
+**Journal Services**  
+Served to review the manuscripts including  
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+- International Journal of Computer Vision (IJCV)  
+- IEEE Transactions on Image Processing (IEEE TIP)    
+- IEEE Computational Intelligence Magazine (IEEE CIM)  
+- Pattern Recognition (PR)
+- Journal of Visual Communication and Image Representation (JVCIR)
+- IET Image Processing (IET-IPR)
+- Neural Processing Letters (NPL)
+- IEEE/CAA Journal of Automatica Sinica  
+- IEEE Robotics and Automation Letters (RA-L)
+
+---  
+**Conference Services**  
+Served to review the manuscripts including  
+- CVPR / ECCV
+- NeurIPS / AAAI
+- ICIP / IJCNN / ACCV / ICONIP / ICMLA / ICASSP
+
+[[go top](https://alanlusun.github.io/)] 
+
+
+For more information  
+===  
+Here is my CV [[English Version](https://alanlusun.github.io/files/CV_LuChangsheng_EN.pdf), [中文简历](https://alanlusun.github.io/files/CV_LuChangsheng_CN.pdf)].
+
+[[go top](https://alanlusun.github.io/)]
