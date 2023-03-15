@@ -48,6 +48,7 @@ Awards and Honors
 - *National Scholarship* for Undergraduate student, 2019-9. (1/259) 
 - *National Scholarship* for Undergraduate student, 2018-9. (1/259)
 - Pacemaker to Merit Student, 2018-9. (三好学生标兵, 全校仅30人)
+- Top 10 Students of the School of Electrical and Information Engineering, 2019.
 - *Provincial Second Prize of National Electronic Design Competition*, 2019.  
 - *Second Prize of Advanced Mathematics Competition*, 2018.  
 - *National Encouragement Scholarship* for Undergraduate student, 2017-9. (2/62)
