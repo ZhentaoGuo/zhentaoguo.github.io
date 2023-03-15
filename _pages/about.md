@@ -32,7 +32,7 @@ Recently, I am interested in these areas:
 
 - **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学, SJTU), Shanghai, China, with the National Scholarship! Supervisor: Dr. Chaochen Gu.
 
-- **2016/09 - 2020/06** I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, with the highest rank (1/259)! Supervisor: Dr. Min Liu.
+- **2016/09 - 2020/06** I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, and got **the first place in my major (1/259) with a grade point of 4.02/4.5**. Supervisor: Dr. Min Liu.
 
 <!--Tongkun Guan received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University, Shanghai, China, in 2023.
 and received the B.S. degree in Electrical Engineering and Automation from Hunan University, Changsha, China, in 2020. He is currently pursuing the PhD degree with the MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, and works with his supervisor Dr. Xiaokang Yang and Dr. Wei Shen. He has wide research interests mainly including computer vision, text detection, image processing, and text recognition.-->
@@ -87,28 +87,17 @@ Hunan University's three-good student model, 2019-9.
 **Journal Services**  
 Served to review the manuscripts including  
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-- International Journal of Computer Vision (IJCV)  
-- IEEE Transactions on Image Processing (IEEE TIP)    
-- IEEE Computational Intelligence Magazine (IEEE CIM)  
-- Pattern Recognition (PR)
-- Journal of Visual Communication and Image Representation (JVCIR)
-- IET Image Processing (IET-IPR)
-- Neural Processing Letters (NPL)
-- IEEE/CAA Journal of Automatica Sinica  
-- IEEE Robotics and Automation Letters (RA-L)
+- IEEE/CAA Journal of Automatica Sinica (IEEE JAS) 
 
----  
+<!-- ---  
 **Conference Services**  
 Served to review the manuscripts including  
 - CVPR / ECCV
 - NeurIPS / AAAI
-- ICIP / IJCNN / ACCV / ICONIP / ICMLA / ICASSP
+- ICIP / IJCNN / ACCV / ICONIP / ICMLA / ICASSP -->
 
-[[go top](https://tongkunguan.github.io/)] 
-
-
-For more information  
+<!-- For more information  
 ===  
 Here is my CV [[English Version](https://alanlusun.github.io/files/CV_LuChangsheng_EN.pdf), [中文简历](https://alanlusun.github.io/files/CV_LuChangsheng_CN.pdf)].
 
-[[go top](https://tongkunguan.github.io/)]
+[[go top](https://tongkunguan.github.io/)] -->
