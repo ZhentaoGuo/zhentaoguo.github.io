@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>SJTU</a>. Shanghai. gtk0615@sjtu.edu.cn.
+subtitle: <a href='https://www.sjtu.edu.cn/'>SJTU.</a>Shanghai. gtk0615@sjtu.edu.cn.
 
 profile:
   align: right
@@ -26,13 +26,14 @@ Recently, I am interested in these areas:
 - End-to-end Text Detection
 - Representation Learning
 
-Education Experience
+<h1 style="font-family: Arial, sans-serif; font-weight: bold;">*Education Experience*</h1>
+<!-- Education Experience -->
 === 
-2023/04 - now I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学, SJTU), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. Wei Shen.
+- **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学, SJTU), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. Wei Shen.
 
-2020/09 - 2023/03 I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学, SJTU), Shanghai, China, with the National Scholarship! Supervisor: Dr. Chaochen Gu.
+- **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学, SJTU), Shanghai, China, with the National Scholarship! Supervisor: Dr. Chaochen Gu.
 
-2016/09 - 2020/06 I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, with the highest rank (1/259)! Supervisor: Dr. Min Liu.
+- **2016/09 - 2020/06** I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, with the highest rank (1/259)! Supervisor: Dr. Min Liu.
 
 <!--Tongkun Guan received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University, Shanghai, China, in 2023.
 and received the B.S. degree in Electrical Engineering and Automation from Hunan University, Changsha, China, in 2020. He is currently pursuing the PhD degree with the MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, and works with his supervisor Dr. Xiaokang Yang and Dr. Wei Shen. He has wide research interests mainly including computer vision, text detection, image processing, and text recognition.-->
