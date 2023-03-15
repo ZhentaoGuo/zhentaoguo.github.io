@@ -38,4 +38,5 @@ date: 2023-03-02 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+
+One research paper about [Scene Text Recognition](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**. :sparkles: :smile:
