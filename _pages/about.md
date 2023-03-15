@@ -23,7 +23,7 @@ Recently, I am interested in these areas:
 - End-to-end Text Detection
 - Representation Learning
 
-**Education Experience**
+Education Experience
 === 
 - **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学, SJTU), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. Wei Shen.
 
@@ -40,13 +40,13 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 
 <!-- >I look forward to starting a meaningful and wonderful Ph.D. period and proceeding with the corresponding exercise after my M.S. graduation in 2020. It would be very grateful for your passionate advice~~ -->  
 
-**News**
+<!-- News
 === 
 - One research paper about [Scene Text Recognition (STR)](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**.
-- One research paper about [Industrial Text Detection (ITD)](https://ieeexplore.ieee.org/abstract/document/9726175) gets accepted by **TCSVT'22**.
+- One research paper about [Industrial Text Detection (ITD)](https://ieeexplore.ieee.org/abstract/document/9726175) gets accepted by **TCSVT'22**. -->
 
 
-**Awards and Honors**
+Awards and Honors
 ===  
 - *Outstanding Graduate Student in Shanghai jiao tong university*, 2022-12.  
 - *National Scholarship* for graduate student, 2022-9.  
@@ -77,7 +77,6 @@ Hunan University's three-good student model, 2019-9.
 ---
 *Second Prize of Advanced Mathematics Competition*, 2018.  
  -->
-[[go top](https://tongkunguan.github.io/)]  
 
 <!-- **Professional Activity** 
 === -->
