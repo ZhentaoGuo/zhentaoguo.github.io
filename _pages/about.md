@@ -18,7 +18,24 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Tongkun Guan received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University, Shanghai, China, in 2023, and received the B.S. degree in Electrical Engineering and Automation from Hunan University, Changsha, China, in 2017. He is currently pursuing the PhD degree with the MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, and works with his supervisor Dr. Xiaokang Yang and Dr. Wei Shen. He has wide research interests mainly including computer vision, text detection, image processing, and text recognition.
+Hey, I am Tongkun Guan (官同坤). I’m a PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen and this is my first year.
+
+Recently, I am interested in these areas:
+
+Self-supervised Text Recognition
+End-to-end Text Detection
+Representation Learning
+
+Education Experience
+=== 
+2021/09 - now I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学, SJTU), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. Wei Shen.
+
+2018/09 - 2021/06 I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University, Shanghai, China, with the National Scholarship! Supervisor: Dr. Chaochen Gu.
+
+2016/09 - 2020/06 I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, with the highest rank (1/259)! Supervisor: Dr. Min Liu.
+
+<!--Tongkun Guan received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University, Shanghai, China, in 2023.
+and received the B.S. degree in Electrical Engineering and Automation from Hunan University, Changsha, China, in 2020. He is currently pursuing the PhD degree with the MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, and works with his supervisor Dr. Xiaokang Yang and Dr. Wei Shen. He has wide research interests mainly including computer vision, text detection, image processing, and text recognition.-->
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
@@ -28,10 +45,8 @@ Tongkun Guan received the M.S. degree in the Department of Automation from Shang
 
 News
 === 
-- One research paper about [Few-shot Keypoint Detection (FSKD)](https://openaccess.thecvf.com/content/CVPR2022/html/Lu_Few-Shot_Keypoint_Detection_With_Uncertainty_Learning_for_Unseen_Species_CVPR_2022_paper.html) gets accepted by **CVPR'22**.
-- Two co-authored papers get accepted by **ACCV'22** (Re. [Deep General Ellipse detection](https://github.com/One1h/ElDet)) and **ICONIP'22** (Re. Fast Stain Color Normalization). One co-authored paper about [industrial scene text detection](https://ieeexplore.ieee.org/abstract/document/9726175/) gets accepted by **IEEE TCSVT**.
-- Two papers about domain adaptation/transfer learning published in **ICONIP'18** and **Neurocomputing**. [[here](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en)]
-- Our [High-quality Ellipse Detector](https://github.com/AlanLuSun/High-quality-ellipse-detection) gets accepted by **IEEE T-IP** and exceeds 300+ stars in github (rank top1 so far). We also have an **IEEE ICIP** version for [circle detection](https://github.com/AlanLuSun/Circle-detection).
+- One research paper about [Scene Text Recognition (STR)](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**.
+- One research paper about [Industrial Text Detection (ITD)](https://ieeexplore.ieee.org/abstract/document/9726175) gets accepted by **TCSVT'22**.
 
 
 Awards and Honors
