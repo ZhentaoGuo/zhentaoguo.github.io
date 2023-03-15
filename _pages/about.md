@@ -9,6 +9,7 @@ profile:
   image: 电气院官同坤免冠照.jpg
   image_circular: false # crops the image to make it circular
   address: >
+
 <!--     <p>AI Lab, SJTU</p> -->
 
 news: true  # includes a list of news items
