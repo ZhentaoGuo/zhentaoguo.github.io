@@ -61,7 +61,7 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 ---
 *Outstanding Undergraduate of Hunan Province*, 2020-6.  
 
-
+---
 *National Scholarship* for Undergraduate student (*Two times*, 2018-9, 2019-9).  
 
 ---
