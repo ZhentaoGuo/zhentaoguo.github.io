@@ -16,10 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, I am Tongkun Guan (官同坤). I’m a PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen and this is my first year.
+Hey, I am Tongkun Guan (官同坤). I’m a first-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. 
 
 Recently, I am interested in these areas:
-
 - Self-supervised Text Recognition
 - End-to-end Text Detection
 - Representation Learning
