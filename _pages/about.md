@@ -22,15 +22,15 @@ Hey, I am Tongkun Guan (官同坤). I’m a PhD student of computer science at S
 
 Recently, I am interested in these areas:
 
-Self-supervised Text Recognition
-End-to-end Text Detection
-Representation Learning
+- Self-supervised Text Recognition
+- End-to-end Text Detection
+- Representation Learning
 
 Education Experience
 === 
-2021/09 - now I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学, SJTU), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. Wei Shen.
+2023/04 - now I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学, SJTU), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. Wei Shen.
 
-2018/09 - 2021/06 I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University, Shanghai, China, with the National Scholarship! Supervisor: Dr. Chaochen Gu.
+2020/09 - 2023/03 I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学, SJTU), Shanghai, China, with the National Scholarship! Supervisor: Dr. Chaochen Gu.
 
 2016/09 - 2020/06 I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, with the highest rank (1/259)! Supervisor: Dr. Min Liu.
 
