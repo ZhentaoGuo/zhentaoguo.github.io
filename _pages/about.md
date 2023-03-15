@@ -48,13 +48,15 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 
 Awards and Honors
 ===  
-- *Outstanding Graduate Student in Shanghai jiao tong university*, 2022-12.  
+- *Outstanding Graduate Student in Shanghai Jiao Tong University*, 2022-12.  
 - *National Scholarship* for graduate student, 2022-9.  
 - *Outstanding Undergraduate of Hunan Province*, 2020-6.  
-- *National Scholarship* for Undergraduate student (*Two times*, 2018-9, 2019-9).  
-- Hunan University's three-good student model, 2019-9.
+- *National Scholarship* for Undergraduate student, 2019-9. (1/259) 
+- *National Scholarship* for Undergraduate student, 2018-9. (1/259)
+- Pacemaker to Merit Student, 2018-9. (三好学生标兵, 全校仅30人)
 - *Provincial Second Prize of National Electronic Design Competition (UEDC)*, 2019.  
 - *Second Prize of Advanced Mathematics Competition*, 2018.  
+- *National Encouragement Scholarship* for Undergraduate student, 2017-9. (2/62)
 
 <!-- ---
 *Outstanding Graduate Student in Shanghai jiao tong university*, 2022-12.  
