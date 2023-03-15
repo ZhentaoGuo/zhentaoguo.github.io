@@ -45,6 +45,15 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 - One research paper about [Scene Text Recognition (STR)](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**.
 - One research paper about [Industrial Text Detection (ITD)](https://ieeexplore.ieee.org/abstract/document/9726175) gets accepted by **TCSVT'22**. -->
 
+News
+=== 
+layout: post
+date: 2022-2-22 15:59:00-0400
+inline: true
+
+
+<!-- - One research paper about [Scene Text Recognition](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**. -->
+One research paper about [Industrial Text Detection](https://ieeexplore.ieee.org/abstract/document/9726175) gets accepted by **TCSVT'22**.
 
 Awards and Honors
 ===  
