@@ -38,7 +38,7 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 
 <!--Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
 
-<!-- >I look forward to starting a meaningful and wonderful Ph.D. period and proceeding with the corresponding exercise after my M.S. graduation in 2020. It would be very grateful for your passionate advice~~ -->  
+<!-- I am looking for an internship~~ -->
 
 Awards and Honors
 --- 
