@@ -79,7 +79,7 @@ Hunan University's three-good student model, 2019-9.
 ---
 *Hunan Prize of Advanced Mathematics Competition*, 2018.  
 
-[[go top](https://alanlusun.github.io/)]  
+[[go top](https://tongkunguan.github.io/)]  
 
 **Professional Activity** 
 ===
@@ -104,11 +104,11 @@ Served to review the manuscripts including
 - NeurIPS / AAAI
 - ICIP / IJCNN / ACCV / ICONIP / ICMLA / ICASSP
 
-[[go top](https://alanlusun.github.io/)] 
+[[go top](https://tongkunguan.github.io/)] 
 
 
 For more information  
 ===  
 Here is my CV [[English Version](https://alanlusun.github.io/files/CV_LuChangsheng_EN.pdf), [中文简历](https://alanlusun.github.io/files/CV_LuChangsheng_CN.pdf)].
 
-[[go top](https://alanlusun.github.io/)]
+[[go top](https://tongkunguan.github.io/)]
