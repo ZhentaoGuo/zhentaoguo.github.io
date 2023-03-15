@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>SJTU</a>. Shanghai. gtk0615@sjtu.edu.cn.
 
 profile:
   align: right
