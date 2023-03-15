@@ -39,4 +39,4 @@ inline: true
 ---
 
 
-One research paper about [Scene Text Recognition](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**. :sparkles: :smile:
+One research paper about [Scene Text Recognition](https://arxiv.org/abs/2203.03382) is accepted by **CVPR'23**. :sparkles: :smile:
