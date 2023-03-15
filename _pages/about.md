@@ -51,34 +51,24 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 
 **Awards and Honors**
 ===  
-[Outstanding reviewer for ECCV 2022](https://eccv2022.ecva.net/program/outstanding-reviewers/), 2022-10-19
 
 ---
-*Outstanding Thesis Award for master graduate student, awarded by Shanghai  Association of Automation (CAA)*, 2021-01-18  
+*Outstanding Graduate Student in Shanghai jiao tong university*, 2022-12.  
 
 ---
-*Outstanding Graduate Student in Shanghai*, 2020-3.  
+*National Scholarship* for graduate student, 2022-9.  
 
 ---
-*National Scholarship* for graduate student (*Two times*, 2019-9, 2017-11).  
+*Outstanding Undergraduate of Hunan Province*, 2020-6.  
+
+
+*National Scholarship* for Undergraduate student (*Two times*, 2018-9, 2019-9).  
 
 ---
-*2018 Scholarship of 14th Research Institute of China Electronics Technology Corporation*, 2018-12.  
+Hunan University's three-good student model, 2019-9.
 
 ---
-*The Excellent League Member of Shanghai Jiao Tong University*, 2018-5.  
-
----
-*[2017 First class award for excellent undergraduate thesis of universities in Jiangsu province](http://jyt.jiangsu.gov.cn/art/2018/9/7/art_58320_7810502.html)*, 2018-4.   
-
----
-*Outstanding Undergraduate of Southeast University*, 2017-6.  
-
----
-*Envision future Scholarship*, 2017-6.
-
----
-*Provincial First Prize of National Electronic Design Competition (UEDC)*, two times in 2016 and 2015.  
+*Provincial Second Prize of National Electronic Design Competition (UEDC)*, 2019.  
 
 ---
 *President Scholarship of Southeast University*, 2014.
@@ -87,7 +77,7 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 *Merit Student of Southeast University*, 2014.
 
 ---
-*First Prize of Advanced Mathematics Competition*, 2014.  
+*Hunan Prize of Advanced Mathematics Competition*, 2018.  
 
 [[go top](https://alanlusun.github.io/)]  
 
