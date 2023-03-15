@@ -71,23 +71,17 @@ Hunan University's three-good student model, 2019-9.
 *Provincial Second Prize of National Electronic Design Competition (UEDC)*, 2019.  
 
 ---
-*President Scholarship of Southeast University*, 2014.
-
----
-*Merit Student of Southeast University*, 2014.
-
----
-*Hunan Prize of Advanced Mathematics Competition*, 2018.  
+*Second Prize of Advanced Mathematics Competition*, 2018.  
 
 [[go top](https://tongkunguan.github.io/)]  
 
-**Professional Activity** 
-===
+<!-- **Professional Activity** 
+=== -->
 
-**Journal Services**  
+<!-- **Journal Services**  
 Served to review the manuscripts including  
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-- IEEE/CAA Journal of Automatica Sinica (IEEE JAS) 
+- IEEE/CAA Journal of Automatica Sinica (IEEE JAS)  -->
 
 <!-- ---  
 **Conference Services**  
