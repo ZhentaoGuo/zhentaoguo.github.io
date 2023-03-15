@@ -1,3 +1,12 @@
+---
+layout: post
+date: 2023-03-02 07:59:00-0400
+inline: true
+---
+
+
+One research paper about [Scene Text Recognition](https://arxiv.org/abs/2203.03382) is accepted by **CVPR'23**. :sparkles: :smile:
+
 <!-- ---
 layout: post
 title: A long announcement with details
@@ -32,11 +41,3 @@ Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan c
  -->
  
  
----
-layout: post
-date: 2023-03-02 07:59:00-0400
-inline: true
----
-
-
-One research paper about [Scene Text Recognition](https://arxiv.org/abs/2203.03382) is accepted by **CVPR'23**. :sparkles: :smile:
