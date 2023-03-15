@@ -24,7 +24,7 @@ Recently, I am interested in these areas:
 - Representation Learning
 
 Education Experience
-=== 
+---
 - **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学, SJTU), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. Wei Shen.
 
 - **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学, SJTU), Shanghai, China, with the National Scholarship! Supervisor: Dr. Chaochen Gu.
@@ -40,39 +40,8 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 
 <!-- >I look forward to starting a meaningful and wonderful Ph.D. period and proceeding with the corresponding exercise after my M.S. graduation in 2020. It would be very grateful for your passionate advice~~ -->  
 
-<!-- News
-=== 
-- One research paper about [Scene Text Recognition (STR)](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**.
-- One research paper about [Industrial Text Detection (ITD)](https://ieeexplore.ieee.org/abstract/document/9726175) gets accepted by **TCSVT'22**. -->
-
-<!-- News
-=== 
-layout: post
-date: 2022-2-22 15:59:00-0400
-inline: true
-
-
-<!-- - One research paper about [Scene Text Recognition](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**. -->
-One research paper about [Industrial Text Detection](https://ieeexplore.ieee.org/abstract/document/9726175) gets accepted by **TCSVT'22**.
-
-layout: post
-date: 2023-3-2 15:59:00-0400
-inline: true
-
-
-One research paper about [Scene Text Recognition](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**.
-<!-- One research paper about [Industrial Text Detection](https://ieeexplore.ieee.org/abstract/document/9726175) gets accepted by **TCSVT'22**. -->
-
-layout: post
-date: 2022-3-15 15:59:00-0400
-inline: true
-
-
-<!-- - One research paper about [Scene Text Recognition](https://arxiv.org/abs/2203.03382) gets accepted by **CVPR'23**. -->
-One research paper about [Industrial Text Detection](https://ieeexplore.ieee.org/abstract/document/9726175) gets accepted by **TCSVT'22**. -->
-
 Awards and Honors
-===  
+--- 
 - *Outstanding Graduate Student in Shanghai Jiao Tong University*, 2022-12.  
 - *National Scholarship* for graduate student, 2022-9.  
 - *Outstanding Undergraduate of Hunan Province*, 2020-6.  
@@ -83,30 +52,6 @@ Awards and Honors
 - *Second Prize of Advanced Mathematics Competition*, 2018.  
 - *National Encouragement Scholarship* for Undergraduate student, 2017-9. (2/62)
 
-<!-- ---
-*Outstanding Graduate Student in Shanghai jiao tong university*, 2022-12.  
-
----
-*National Scholarship* for graduate student, 2022-9.  
-
----
-*Outstanding Undergraduate of Hunan Province*, 2020-6.  
-
----
-*National Scholarship* for Undergraduate student (*Two times*, 2018-9, 2019-9).  
-
----
-Hunan University's three-good student model, 2019-9.
-
----
-*Provincial Second Prize of National Electronic Design Competition (UEDC)*, 2019.  
-
----
-*Second Prize of Advanced Mathematics Competition*, 2018.  
- -->
-
-<!-- **Professional Activity** 
-=== -->
 
 <!-- **Journal Services**  
 Served to review the manuscripts including  
