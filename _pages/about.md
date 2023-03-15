@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University;Email:gtk0615@sjtu.edu.cn.</a>
+subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University;</a>
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, I am Tongkun Guan (官同坤). I’m a first-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. 
+Hey, I am Tongkun Guan (官同坤). I’m a first-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. My Email: gtk0615@sjtu.edu.cn.
 
 Recently, I am interested in these areas:
 - Self-supervised Text Recognition
