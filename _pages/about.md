@@ -51,7 +51,7 @@ Awards and Honors
 - Top 10 Outstanding Students of the College, 2019.
 - *Provincial Second Prize of National Electronic Design Competition*, 2019.  
 - *Second Prize of Advanced Mathematics Competition*, 2018.  
-- *National Encouragement Scholarship* for Undergraduate Student, 2017-9. (2/62)
+- *National Encouragement Scholarship* for Undergraduate Student, 2017-9.
 
 
 <!-- **Journal Services**  
