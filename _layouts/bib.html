@@ -185,7 +185,7 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
           {%- if entry.doi %}
-            <a href="https://dx.doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI: {{ entry.doi }}</a>
+            <a href="{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI: {{ entry.doi }}</a>
           {%- endif %}
           </div>
           {% if site.badges %}
