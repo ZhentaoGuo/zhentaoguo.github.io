@@ -25,9 +25,9 @@ Recently, I am interested in these areas:
 
 Education Experience
 ---
-- **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学, SJTU), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. [Wei Shen](https://shenwei1231.github.io/).
+- **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学), Shanghai, China. Supervisor: Dr. Xiaokang Yang and Dr. [Wei Shen](https://shenwei1231.github.io/).
 
-- **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学, SJTU), Shanghai, China, with the National Scholarship! Supervisor: Dr. [Chaochen Gu](https://automation.sjtu.edu.cn/Chao-Chen).
+- **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学), Shanghai, China, with the National Scholarship! Supervisor: Dr. [Chaochen Gu](https://automation.sjtu.edu.cn/Chao-Chen).
 
 - **2016/09 - 2020/06** I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, and **ranked first in my major (1/259) with a grade point average of 4.02/4.5.**
 <!-- - and got **the first place in my major (1/259) with a grade point of 4.02/4.5**. Supervisor: Dr. Min Liu.-->
