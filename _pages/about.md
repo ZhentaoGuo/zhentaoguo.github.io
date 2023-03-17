@@ -44,14 +44,14 @@ Awards and Honors
 --- 
 - *Outstanding Graduate Student in Shanghai Jiao Tong University*, 2022-12.  
 - *National Scholarship* for graduate student, 2022-9.  
-- *Outstanding Undergraduate of Hunan Province*, 2020-6.  
-- *National Scholarship* for Undergraduate student, 2019-9. (1/259) 
-- *National Scholarship* for Undergraduate student, 2018-9. (1/259)
+- *Outstanding Undergraduate Student of Hunan Province*, 2020-6.  
+- *National Scholarship* for Undergraduate Student, 2019-9. (1/259) 
+- *National Scholarship* for Undergraduate Student, 2018-9. (1/259)
 - Pacemaker to Merit Student, 2018-9. (三好学生标兵, 全校仅30人)
 - Top 10 Outstanding Students of the College, 2019.
 - *Provincial Second Prize of National Electronic Design Competition*, 2019.  
 - *Second Prize of Advanced Mathematics Competition*, 2018.  
-- *National Encouragement Scholarship* for Undergraduate student, 2017-9. (2/62)
+- *National Encouragement Scholarship* for Undergraduate Student, 2017-9. (2/62)
 
 
 <!-- **Journal Services**  
