@@ -6,7 +6,7 @@ subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>
 
 profile:
   align: right
-  image: prof_pic_1.jpg
+  image: prof_pic_1_1.jpg
   image_circular: false # crops the image to make it circular
 <!--   address: >
     <p>AI Lab, SJTU</p> -->
