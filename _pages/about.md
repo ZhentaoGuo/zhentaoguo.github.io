@@ -48,7 +48,7 @@ Awards and Honors
 - *Outstanding Undergraduate Student of Hunan Province*, 2020-6.  
 - *National Scholarship* for Undergraduate Student, 2019-9. (1/259) 
 - *National Scholarship* for Undergraduate Student, 2018-9. (1/259)
-- Pacemaker to Merit Student, 2018-9. (三好学生标兵, 全校仅30人)
+- Pacemaker to Merit Student, 2018-9.
 - Top 10 Outstanding Students of the College, 2019.
 - *Provincial Second Prize of National Electronic Design Competition*, 2019.  
 - *Second Prize of Advanced Mathematics Competition*, 2018.  
