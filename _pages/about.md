@@ -25,7 +25,7 @@ Recently, I am interested in these areas:
 
 Education Experience
 ---
-- **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学), Shanghai, China. Supervisor: Prof. Xiaokang Yang and [Prof. Wei Shen](https://shenwei1231.github.io/).
+- **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligience Institute, Shanghai Jiao Tong University (上海交通大学), Shanghai, China. Supervisor: [Prof. Xiaokang Yang](http://www.sjtudri.com/page228) and [Prof. Wei Shen](https://shenwei1231.github.io/).
 
 - **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学), Shanghai, China, with **the National Scholarship!** 
 
