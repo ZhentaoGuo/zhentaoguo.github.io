@@ -6,7 +6,7 @@ subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.jpg
   image_circular: false # crops the image to make it circular
 <!--   address: >
     <p>AI Lab, SJTU</p> -->
@@ -29,7 +29,7 @@ Education Experience
 
 - **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学), Shanghai, China, with **the National Scholarship!** 
 
-- **2016/09 - 2020/06** I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, and **ranked first in my major (1/259) with a grade point average of 4.02/4.5.**
+- **2016/09 - 2020/06** I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, and **ranked first (1/259) with a grade point average of 4.02/4.5 in all courses.**
 <!-- - Supervisor: [Prof. Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm). -->
 <!-- - and got **the first place in my major (1/259) with a grade point of 4.02/4.5**. Supervisor: Dr. Min Liu.-->
 <!--Tongkun Guan received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University, Shanghai, China, in 2023.
