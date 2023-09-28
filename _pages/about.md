@@ -44,31 +44,31 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 Awards and Honors
 --- 
 - *Outstanding Graduate Student in Shanghai Jiao Tong University*, 2022-12.  
-- *National Scholarship* for graduate student, 2022-9.  
+- *National Scholarship* for graduate student*, 2022-9.  
 - *Outstanding Undergraduate Student of Hunan Province*, 2020-6.  
-- *National Scholarship* for Undergraduate Student, 2019-9. (1/259) 
-- *National Scholarship* for Undergraduate Student, 2018-9. (1/259)
-- Pacemaker to Merit Student, 2018-9.
-- Top 10 Outstanding Students of the College, 2019.
+- *National Scholarship* for Undergraduate Student*, 2019-9. (1/259) 
+- *National Scholarship* for Undergraduate Student*, 2018-9. (1/259)
+- *Pacemaker to Merit Student*, 2018-9.
+- *Top 10 Outstanding Students of the College*, 2019.
 - *Provincial Second Prize of National Electronic Design Competition*, 2019.  
 - *Second Prize of Advanced Mathematics Competition*, 2018.  
-- *National Encouragement Scholarship* for Undergraduate Student, 2017-9.
+- *National Encouragement Scholarship* for Undergraduate Student*, 2017-9.
 
 
 <!-- **Journal Services**  
 Served to review the manuscripts including  
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-- IEEE/CAA Journal of Automatica Sinica (IEEE JAS)  -->
+-->
 
 <!-- ---  
 **Conference Services**  
 Served to review the manuscripts including  
 - CVPR / ECCV
 - NeurIPS / AAAI
-- ICIP / IJCNN / ACCV / ICONIP / ICMLA / ICASSP -->
+- ACCV  -->
 
 <!-- For more information  
 ===  
-Here is my CV [[English Version](https://alanlusun.github.io/files/CV_LuChangsheng_EN.pdf), [中文简历](https://alanlusun.github.io/files/CV_LuChangsheng_CN.pdf)].
+Here is my CV [[English Version](), [中文简历]()].
 
 [[go top](https://tongkunguan.github.io/)] -->
