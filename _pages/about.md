@@ -42,7 +42,7 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 
 Awards and Honors
 --- 
-- **Wu Honor Class (吴文俊人工智能博士班)**, 2024-3
+- ***Wu Honor Class (吴文俊人工智能博士班)***, 2024-3
 - *Outstanding Graduate Student* in Shanghai Jiao Tong University, 2022-12.
 - ***National Scholarship*** for graduate student, 2022-9.
 - *Outstanding Undergraduate Student* of Hunan Province, 2020-6.  
