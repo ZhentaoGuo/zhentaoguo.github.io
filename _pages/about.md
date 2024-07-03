@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, I am Tongkun Guan (官同坤). I’m a first-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. My Email: gtk0615@sjtu.edu.cn.
+Hey, I am Tongkun Guan (官同坤). I’m a second-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. My Email: gtk0615@sjtu.edu.cn.
 
 Recently, I am interested in these areas:
 - End-to-end Text Spotting
@@ -42,6 +42,7 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 
 Awards and Honors
 --- 
+- **Wu Honor Class (吴文俊人工智能博士班)**, 2024-3
 - *Outstanding Graduate Student* in Shanghai Jiao Tong University, 2022-12.
 - ***National Scholarship*** for graduate student, 2022-9.
 - *Outstanding Undergraduate Student* of Hunan Province, 2020-6.  
