@@ -19,8 +19,7 @@ social: true  # includes social icons at the bottom of the page
 Hey, I am Tongkun Guan (官同坤). I’m a first-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. My Email: gtk0615@sjtu.edu.cn.
 
 Recently, I am interested in these areas:
-- Self-supervised Text Recognition
-- End-to-end Text Detection
+- End-to-end Text Spotting
 - Representation Learning
 
 Education Experience
@@ -55,17 +54,16 @@ Awards and Honors
 - *National Encouragement Scholarship* for Undergraduate Student, 2017-9.
 
 
-<!-- **Journal Services**  
-Served to review the manuscripts including  
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
--->
+Academic Activities
+---
 
-<!-- ---  
-**Conference Services**  
-Served to review the manuscripts including  
-- CVPR / ECCV
-- NeurIPS / AAAI
-- ACCV  -->
+**Journal Services**  
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Pattern Recognition (PR)
+
+**Conference Services**
+- ECCV, WACV, PRCV, ACCV, ICDAR
 
 <!-- For more information  
 ===  
