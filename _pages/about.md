@@ -19,8 +19,12 @@ social: true  # includes social icons at the bottom of the page
 Hey, I am Tongkun Guan (官同坤). I’m a second-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. My Email: gtk0615@sjtu.edu.cn.
 
 Recently, I am interested in these areas:
-- End-to-end Text Spotting
+- Multimodal Visual Language Large Model
+- Text to Image
 - Representation Learning
+- End-to-end Text Spotting
+
+**I am looking for an internship~~**
 
 Education Experience
 ---
@@ -37,8 +41,6 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
 <!--Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
-
-I am looking for an internship~~
 
 Awards and Honors
 --- 
