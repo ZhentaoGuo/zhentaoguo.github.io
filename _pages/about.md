@@ -44,17 +44,17 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 
 Awards and Honors
 --- 
-- ***Wu Honor Class (吴文俊人工智能荣誉博士班)***, 2024-3
-- *Outstanding Graduate Student* in Shanghai Jiao Tong University, 2022-12.
-- ***National Scholarship*** for graduate student, 2022-9.
-- *Outstanding Undergraduate Student* of Hunan Province, 2020-6.  
-- ***National Scholarship*** for Undergraduate Student, 2019-9. (1/259)
-- ***National Scholarship*** for Undergraduate Student, 2018-9. (1/259)
-- ***Pacemaker to Merit Student***, 2018-9.
-- *Top 10 Outstanding Students* of the College, 2019.
-- *Provincial Second Prize of National Electronic Design Competition*, 2019.  
-- *Second Prize of Advanced Mathematics Competition*, 2018.  
-- *National Encouragement Scholarship* for Undergraduate Student, 2017-9.
+- Wu Honor Class (吴文俊人工智能荣誉博士班), 2024-3
+- Outstanding Graduate Student in Shanghai Jiao Tong University, 2022-12.
+- National Scholarship for graduate student, 2022-9.
+- Outstanding Undergraduate Student of Hunan Province, 2020-6.  
+- National Scholarship for Undergraduate Student, 2019-9. (1/259)
+- National Scholarship for Undergraduate Student, 2018-9. (1/259)
+- Pacemaker to Merit Student, 2018-9.
+- Top 10 Outstanding Students of the College, 2019.
+- Provincial Second Prize of National Electronic Design Competition, 2019.  
+- Second Prize of Advanced Mathematics Competition, 2018.  
+- National Encouragement Scholarship for Undergraduate Student, 2017-9.
 
 
 Academic Activities
