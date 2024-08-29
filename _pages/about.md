@@ -24,7 +24,7 @@ Recently, I am interested in these areas:
 - Representation Learning
 - End-to-end Text Spotting
 
-**I am looking for an internship~~**
+<!--**I am looking for an internship~~**-->
 
 Education Experience
 ---
