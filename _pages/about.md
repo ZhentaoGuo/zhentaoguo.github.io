@@ -66,7 +66,7 @@ Academic Activities
 - Pattern Recognition (PR)
 
 **Conference Services**
-- NeurIPS, ECCV, WACV, PRCV, ACCV, ICDAR
+- NeurIPS, CVPR, ICCV, ICLR, ECCV, WACV, PRCV, ACCV, ICDAR
 
 <!-- For more information  
 ===  
