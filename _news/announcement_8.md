@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-02-26 07:59:00-0400
+date: 2024-11-20 07:59:00-0400
 inline: true
 ---
 
-One research paper about [Multimodal Large Language Model]() is accepted by **CVPR'25**. :sparkles: :smile:
+One research paper about [Multi-Agent Reinforcement Learning]() is accepted by **ISCIIA&ITCA'24**. :sparkles: :smile:

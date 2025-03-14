@@ -32,7 +32,7 @@ Education Experience
 
 <!-- <!-- - **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学), Shanghai, China, with **the National Scholarship!**  -->
 
-- **2019/09 - 2023/06** I received a bachelor's degree in Automation from Nanjing Agricultural University (211), Nanjing, China, and **ranked third (3/163) with a GPA of 3.87/4.5 in all courses..** -->
+- **2019/09 - 2023/06** I received a bachelor's degree in Automation from Nanjing Agricultural University (211), Nanjing, China, and **ranked third (3/163) with a GPA of 3.87/4.5 in all courses.**
 
 
 Honors
