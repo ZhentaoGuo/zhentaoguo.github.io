@@ -4,4 +4,4 @@ date: 2025-01-10 07:59:00-0400
 inline: true
 ---
 
-One research paper about [Self-supervised Text Recognition](https://ieeexplore.ieee.org/abstract/document/10887029) is accepted by **TPAMI'25**. :sparkles: :smile:
+One research paper about [Improvement of MAPPO Algorithm](https://ieeexplore.ieee.org/abstract/document/10887029) is accepted by **CCC'24**. :sparkles: :smile:
