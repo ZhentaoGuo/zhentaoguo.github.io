@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>
+subtitle: <a href='https://www.bit.edu.cn/'>Beijing Institute of Technology</a>
 
 profile:
   align: right
-  image: pic.jpg
+  image: pic_gzt.jpg
   image_circular: false # crops the image to make it circular
 <!--   address: >
     <p>AI Lab, SJTU</p> -->
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, I am Tongkun Guan (官同坤). I’m a second-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. My Email: gtk0615@sjtu.edu.cn.
+Hey, I am Zhentao Guo (郭振涛). I am a second-year graduate student majoring in control engineering at Beijing Institute of Technology, China, supervised by Dr. Hongbin Ma. My Email: zt_guo1230@163.com.
 
 Recently, I am interested in these areas:
 - Multimodal Visual Language Large Model
@@ -28,45 +28,61 @@ Recently, I am interested in these areas:
 
 Education Experience
 ---
-- **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligence Institute, Department of Computer Science and Engineering, Shanghai Jiao Tong University (上海交通大学), Shanghai, China. Supervisor: [Prof. Xiaokang Yang](http://www.sjtudri.com/page228) and [Prof. Wei Shen](https://shenwei1231.github.io/).
+- **2023/09 - now** I am currently pursuing a master's degree in control engineering at the School of Automation, Beijing Institute of Technology (985), Beijing, China. Supervisor: [Prof. Hongbin Ma](http://we-learn.net.cn/mathmhb/c-index.html).
 
-- **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学), Shanghai, China, with **the National Scholarship!** 
+<!-- <!-- - **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学), Shanghai, China, with **the National Scholarship!**  -->
 
-- **2016/09 - 2020/06** I received the B.S. degree in Electrical Engineering and Automation (双一流学科) from Hunan University (湖南大学, 985), Changsha, China, and **ranked first (1/259) with a grade point average of 4.02/4.5 in all courses.**
-<!-- - Supervisor: [Prof. Min Liu](http://eeit.hnu.edu.cn/info/1291/5218.htm). -->
-<!-- - and got **the first place in my major (1/259) with a grade point of 4.02/4.5**. Supervisor: Dr. Min Liu.-->
-<!--Tongkun Guan received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University, Shanghai, China, in 2023.
-and received the B.S. degree in Electrical Engineering and Automation from Hunan University, Changsha, China, in 2020. He is currently pursuing the PhD degree with the MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, and works with his supervisor Dr. Xiaokang Yang and Dr. Wei Shen. He has wide research interests mainly including computer vision, text detection, image processing, and text recognition.-->
+- **2019/09 - 2023/06** I received a bachelor's degree in Automation from Nanjing Agricultural University (211), Nanjing, China, and **ranked third (3/163) with a GPA of 3.87/4.5 in all courses..** -->
 
-<!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
-<!--Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
-
-Awards and Honors
+Honors
 --- 
-- Wu Honor Class (吴文俊人工智能荣誉博士班), 2024-3
-- Outstanding Graduate Student in Shanghai Jiao Tong University, 2022-12.
-- National Scholarship for graduate student, 2022-9.
-- Outstanding Undergraduate Student of Hunan Province, 2020-6.  
-- National Scholarship for Undergraduate Student, 2019-9. (1/259)
-- National Scholarship for Undergraduate Student, 2018-9. (1/259)
-- Pacemaker to Merit Student, 2018-9.
-- Top 10 Outstanding Students of the College, 2019.
-- Provincial Second Prize of National Electronic Design Competition, 2019.  
-- Second Prize of Advanced Mathematics Competition, 2018.  
-- National Encouragement Scholarship for Undergraduate Student, 2017-9.
+- 2024 Master's National Scholarship, 2024-12
+- 2024-2025 Beijing Institute of Technology Master's Scholarship, 2024-12.
+- 2023-2024 Beijing Institute of Technology Master's Scholarship, 2024-12.
+- Beijing Institute of Technology Outstanding Student Model (Graduate Student), 2024-10.
+- Beijing University Students Innovation and Entrepreneurship 100 Golden Seeds Project (2024), 2024-9.
+- Beijing's "Top 100 Entrepreneurial Teams", 2024-7.
+- Outstanding League Member of Beijing Institute of Technology, 2024-6.
+- Outstanding Undergraduate Graduates of Jiangsu Province, 2023-5.
 
+Awards
+--- 
+- Second Prize in the 20th China Graduate Mathematical Modeling Competition "Huawei Cup", 2023-11.
+- The 8th International Workshop on Advanced Computational Intelligence and Intelligent Informatics AI Challenge Contest SPECIAL PRIZE, 2024-12.
+- Second Prize in the 2023 Miaosuan Cup Human-Computer Hybrid Competition, 2024-6.
+- Second Prize in the 14th MathorCup Mathematics Application Challenge in 2024, 2024-4.
+- Third Prize in the 7th National Wargame Competition in Beijing, Tianjin, Shanghai and Hebei in 2023 Mozi Cup, 2023-9.
+- Third Prize in the 3rd Beijing University Students Innovation and Entrepreneurship Competition, 2024-9.
+- Gold Award of the 21st "Century Cup" Student Entrepreneurship Competition of Beijing Institute of Technology, 2024-7.
+- Silver Award of the 21st “Century Cup” Student Entrepreneurship Competition of Beijing Institute of Technology, 2024-7.
+- 2023 China Intelligent Connected Vehicle Algorithm Challenge Contribution Award (Top 12%), 2024-1.
+- 2023 International Competition ofAutonomousRunning Robots (Running Robot) First Prize (国际自主智能机器人大赛一等奖), 2023-8.
+- China International College Student Innovation Competition (2024) Beijing Division Third Prize, 2024-9.
+- Second Prize in the 8th National Wargames Competition in Beijing, Tianjin and Hebei Region, Mozi Cup 2024, 2024-1.
+- Third Prize in the "Cluster Assault" Virtual Algorithm Competition for Open Challenge of Swarm Intelligence, 2025-1.
+- Third Prize in the "Cluster Assault" Group Intelligence Open Challenge Virtual-Real Linkage Competition, 2025-1.
+
+Student Work Experience
+---
+- 2023 Master Navigation Class Discipline Inspection Committee Member, 2023-Now.
+
+Research Results
+
+- A grinding robot based on grinding trajectory planning, invention patent, 2024-5.
+- A goose body size feature extraction and weight prediction system based on depth camera, utility model patent, 2022-8.
+- Meat goose body size feature extraction and weight prediction system based on depth camera, software copyright, 2022-6.
+- Soybean leaf borer rate identification system, software copyright, 2022-6.
 
 Academic Activities
 ---
+**Journal**  
+- IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+- IEEE Transactions on Instrumentation and Measurement (IEEE TIM)
+- Information Sciences (INS)
 
-**Journal Services**  
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-- Pattern Recognition (PR)
-
-**Conference Services**
-- NeurIPS, CVPR, ICCV, ICLR, ECCV, WACV, PRCV, ACCV, ICDAR
+**Conference**
+- CVPR, ICCV, AAAI, IROS, ICME, CAC, CCC, ICIRA, IACCS, ISCIIA&ITCA, CCDC
 
 <!-- For more information  
 ===  
