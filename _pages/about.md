@@ -28,23 +28,35 @@ Recently, I am interested in these areas:
 
 Education Experience
 ---
-- **2023/09 - now** I am currently pursuing a master's degree in control engineering at the School of Automation, Beijing Institute of Technology (985), Beijing, China. Supervisor: [Prof. Hongbin Ma](http://we-learn.net.cn/mathmhb/c-index.html).
+- **2023.9 - Now** I am currently pursuing a master's degree in control engineering at the School of Automation, Beijing Institute of Technology (985), Beijing, China. Supervisor: [Prof. Hongbin Ma](http://we-learn.net.cn/mathmhb/c-index.html).
 
 <!-- <!-- - **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学), Shanghai, China, with **the National Scholarship!**  -->
 
-- **2019/09 - 2023/06** I received a bachelor's degree in Automation from Nanjing Agricultural University (211), Nanjing, China, and **ranked third (3/163) with a GPA of 3.87/4.5 in all courses.**
+- **2019.9 - 2023.6** I received a bachelor's degree in Automation from Nanjing Agricultural University (211), Nanjing, China, and **ranked third (3/163) with a GPA of 3.87/4.5 in all courses.**
 
 
 Honors
 --- 
-- 2024 Master's National Scholarship, 2024-12
-- 2024-2025 Beijing Institute of Technology Master's Scholarship, 2024-12.
-- 2023-2024 Beijing Institute of Technology Master's Scholarship, 2024-12.
-- Beijing Institute of Technology Outstanding Student Model (Graduate Student), 2024-10.
-- Beijing University Students Innovation and Entrepreneurship 100 Golden Seeds Project (2024), 2024-9.
-- Beijing's "Top 100 Entrepreneurial Teams", 2024-7.
-- Outstanding League Member of Beijing Institute of Technology, 2024-6.
-- Outstanding Undergraduate Graduates of Jiangsu Province, 2023-5.
+- 2024.12, **2024 Master's National Scholarship**. :sparkles: :crown:
+- 2024.12, 2024-2025 Beijing Institute of Technology **Master's Scholarship**. :sparkles: :crown:
+- 2024.12, 2023-2024 Beijing Institute of Technology **Master's Scholarship**. :sparkles: :crown:
+- 2024.10, Beijing Institute of Technology **Outstanding Student Model (Graduate Student)**. :sparkles: :crown:
+- 2024.9, Beijing University Students Innovation and Entrepreneurship **100 Golden Seeds Project** (2024). :sparkles: :crown:
+- 2024.7, Beijing's **"Top 100 Entrepreneurial Teams"**. :sparkles: :crown:
+- 2024.6, **Outstanding League Member** of Beijing Institute of Technology. :sparkles: :crown:
+- 2023.12, Beijing Institute of Technology School of Automation 2023 annual party building **"golden idea"** project outstanding topics. :sparkles: :crown:
+- 2023.5, **Outstanding Undergraduate Graduates** of Jiangsu Province. :sparkles: :crown:
+- 2022.6, **Excellent Director** of the Institute of Artificial Intelligence
+- 2022.5, **Excellent member** of the Communist Youth League of the Institute of Artificial Intelligence. :sparkles: :crown:
+- 2022.5, School of Artificial Intelligence **"Research Star"**. :sparkles: :crown:
+- 2022.5, 2021 **Excellent Communist** Youth League member. :sparkles: :crown:
+- 2021.12, **National inspirational Scholarship**. :sparkles: :crown:
+- 2021.12, Merit student **first-class scholarship**. :sparkles: :crown:
+- 2021.12, **Single subject merit scholarship**. :sparkles: :crown:
+- 2021.12, **Social practice scholarship**. :sparkles: :crown:
+- 2021.12, **Science and technology innovation scholarship**. :sparkles: :crown:
+
+
 
 Awards
 --- 
@@ -61,19 +73,22 @@ Awards
 - 2024.1, **Second Prize** in the 8th National Wargames Competition in Beijing, Tianjin and Hebei Region, Mozi Cup 2024. :sparkles: :trophy:
 - 2023.11, **Second Prize** in the 20th China Graduate Mathematical Modeling Competition "Huawei Cup". :sparkles: :trophy:
 - 2023.9, **Third Prize** in the 7th National Wargame Competition in Beijing, Tianjin, Shanghai and Hebei in 2023 Mozi Cup. :sparkles: :trophy:
-- 2023.8, 2023 International Competition ofAutonomousRunning Robots (Running Robot) **First Prize** (国际自主智能机器人大赛**一等奖**). :sparkles: :trophy:
+- 2023.8, 2023 International Competition ofAutonomousRunning Robots (Running Robot) **First Prize** (国际自主智能机器人大赛**一等奖**). :sparkles: :trophy: 
 
 
 Student Work Experience
 ---
-- 2023 Master Navigation Class Discipline Inspection Committee Member, 2023-Now.
+- 2023-Now, 2023 Master Navigation Class Discipline Inspection Committee Member. :sparkles: :school:
+- 2022.8, Head of Robot Innovation Studio, School of Artificial Intelligence. :sparkles: :school:
+- 2022.8, Director of Research and Development Department of AI Workshop, School of Artificial Intelligence. :sparkles: :school:
+
 
 Research Results
-
-- A grinding robot based on grinding trajectory planning, invention patent, 2024-5.
-- A goose body size feature extraction and weight prediction system based on depth camera, utility model patent, 2022-8.
-- Meat goose body size feature extraction and weight prediction system based on depth camera, software copyright, 2022-6.
-- Soybean leaf borer rate identification system, software copyright, 2022-6.
+---
+- 2024.5, The invention relates to a robot grinding trajectory planning method and device based on machine vision, **Invention Patent**. :sparkles: :gem: 
+- 2022.8, A goose body size feature extraction and weight prediction system based on depth camera, **Utility Model Patent**. :sparkles: :gem:
+- 2022.6, Meat goose body size feature extraction and weight prediction system based on depth camera, **Software Copyright**. :sparkles: :gem:
+- 2022.6, Soybean leaf borer rate identification system, **Software Copyright**. :sparkles: :gem:
 
 Academic Activities
 ---
