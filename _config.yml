@@ -77,7 +77,7 @@ scholar_userid: YEOtDRMAAAAJ&hl=zh-CN&oi=ao # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: https://orcid.org/0009-0000-0242-4059# your ORCID ID
-zhihu_id: ZhentaoGuo # your discord id (18-digit unique numerical identifier)
+zhihu_id: sheng-ming-de-can-xiang # your discord id (18-digit unique numerical identifier)
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -96,9 +96,10 @@ spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
-facebook_id: zhentao# your facebook id
-youtube_id: zhentao# your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: zhentao# your discord id (18-digit unique numerical identifier)
+facebook_id: # your facebook id
+youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+discord_id: # your discord id (18-digit unique numerical identifier)
+csdn_id: qq_53089817?type=blog # your discord id (18-digit unique numerical identifier)
 
 
 

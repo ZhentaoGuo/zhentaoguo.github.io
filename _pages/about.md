@@ -74,6 +74,17 @@ Awards
 - 2023.11, **Second Prize** in the 20th China Graduate Mathematical Modeling Competition "Huawei Cup". :sparkles: :trophy:
 - 2023.9, **Third Prize** in the 7th National Wargame Competition in Beijing, Tianjin, Shanghai and Hebei in 2023 Mozi Cup. :sparkles: :trophy:
 - 2023.8, 2023 International Competition ofAutonomousRunning Robots (Running Robot) **First Prize** (国际自主智能机器人大赛**一等奖**). :sparkles: :trophy: 
+- 2022.4, 2021 China Robot Competition and RoboCup Robot World Cup China Robot treasure hunt **First Prize**. :sparkles: :trophy: 
+- 2022.4, **Second Prize** in The 7th National Academic English Vocabulary Competition(NAEV). :sparkles: :trophy: 
+- 2021.12, "Youbi Cup" 2021 China Robot Skills Competition **Second Prize** (Third). :sparkles: :trophy: 
+- 2021.11, 2021 **First Prize** of the National College Students Intelligent Internet Innovative Application Design Competition. :sparkles: :trophy: 
+- 2021.11, **Third Prize** in the 2022 Microsoft "Imagine Cup" Global Student Science and Technology Competition. :sparkles: :trophy: 
+- 2021.11, **Second Prize** of the 12th Jiangsu University Student Robot Competition. :sparkles: :trophy: 
+- 2021.10, **Second Prize** in the National Finals of the National College Students Embedded Chip and System Design Competition in 2021. :sparkles: :trophy: 
+- 2021.10, **First Prize** in the East Division of the National College Students Embedded Chip and Xirong Design Competition in 2021. :sparkles: :trophy: 
+- 2021.7, **Third Prize** of the 16th National Intelligent Car Competition for College Students in East China. :sparkles: :trophy: 
+
+
 
 
 Student Work Experience
