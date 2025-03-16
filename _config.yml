@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Zhentao
+first_name: ZhentaoGuo
 middle_name:
-last_name: Guo
+last_name: 
 email: zt_guo1230@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
@@ -67,13 +67,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: TongkunGuan# your GitHub user name
+github_username: ZhentaoGuo# your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: rTG1yTQAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: YEOtDRMAAAAJ&hl=zh-CN&oi=ao # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: https://orcid.org/0009-0000-0242-4059# your ORCID ID
@@ -101,7 +101,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-    Please contact me via my academic email or ZhiHu for communication and other enquiries.
+    Please contact me via my academic email for communication and other enquiries.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -172,7 +172,7 @@ collections:
     permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 12 # leave blank to include all the news in the `_news` folder
+news_limit: 20 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -257,8 +257,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Guan]
-  first_name: [Tongkun, T.]
+  last_name: [Guo]
+  first_name: [Zhentao, Z.]
 
   style: apa
   locale: en
