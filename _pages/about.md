@@ -20,9 +20,9 @@ Hey, I am Zhentao Guo (郭振涛). I am a second-year graduate student majoring 
 
 Recently, I am interested in these areas:
 - Multimodal Visual Language Large Model
-- Text to Image
-- Representation Learning
-- End-to-end Text Spotting
+- Point cloud registration
+- Uav cooperative control
+- Reinforcement learning
 
 <!--**I am looking for an internship~~**-->
 
@@ -48,20 +48,21 @@ Honors
 
 Awards
 --- 
-- Second Prize in the 20th China Graduate Mathematical Modeling Competition "Huawei Cup", 2023-11.
-- The 8th International Workshop on Advanced Computational Intelligence and Intelligent Informatics AI Challenge Contest SPECIAL PRIZE, 2024-12.
-- Second Prize in the 2023 Miaosuan Cup Human-Computer Hybrid Competition, 2024-6.
-- Second Prize in the 14th MathorCup Mathematics Application Challenge in 2024, 2024-4.
-- Third Prize in the 7th National Wargame Competition in Beijing, Tianjin, Shanghai and Hebei in 2023 Mozi Cup, 2023-9.
-- Third Prize in the 3rd Beijing University Students Innovation and Entrepreneurship Competition, 2024-9.
-- Gold Award of the 21st "Century Cup" Student Entrepreneurship Competition of Beijing Institute of Technology, 2024-7.
-- Silver Award of the 21st “Century Cup” Student Entrepreneurship Competition of Beijing Institute of Technology, 2024-7.
-- 2023 China Intelligent Connected Vehicle Algorithm Challenge Contribution Award (Top 12%), 2024-1.
-- 2023 International Competition ofAutonomousRunning Robots (Running Robot) First Prize (国际自主智能机器人大赛一等奖), 2023-8.
-- China International College Student Innovation Competition (2024) Beijing Division Third Prize, 2024-9.
-- Second Prize in the 8th National Wargames Competition in Beijing, Tianjin and Hebei Region, Mozi Cup 2024, 2024-1.
-- Third Prize in the "Cluster Assault" Virtual Algorithm Competition for Open Challenge of Swarm Intelligence, 2025-1.
-- Third Prize in the "Cluster Assault" Group Intelligence Open Challenge Virtual-Real Linkage Competition, 2025-1.
+- 2025.1, **Third Prize** in the "Cluster Assault" Virtual Algorithm Competition for Open Challenge of Swarm Intelligence. :sparkles: :trophy:
+- 2025.1, **Third Prize** in the "Cluster Assault" Group Intelligence Open Challenge Virtual-Real Linkage Competition. :sparkles: :trophy:
+- 2024.12, The 8th International Workshop on Advanced Computational Intelligence and Intelligent Informatics AI Challenge Contest **Special Prize**. :sparkles: :trophy:
+- 2024.9, China International College Student Innovation Competition (2024) Beijing Division **Third Prize**. :sparkles: :trophy:
+- 2024.9, **Third Prize** in the 3rd Beijing University Students Innovation and Entrepreneurship Competition. :sparkles: :trophy:
+- 2024.7, **Gold Award** of the 21st "Century Cup" Student Entrepreneurship Competition of Beijing Institute of Technology. :sparkles: :trophy:
+- 2024.7, **Silver Award** of the 21st “Century Cup” Student Entrepreneurship Competition of Beijing Institute of Technology. :sparkles: :trophy:
+- 2024.6, **Second Prize** in the 2023 Miaosuan Cup Human-Computer Hybrid Competition. :sparkles: :trophy:
+- 2024.4, **Second Prize** in the 14th MathorCup Mathematics Application Challenge in 2024. :sparkles: :trophy:
+- 2024.1, 2023 China Intelligent Connected Vehicle Algorithm Challenge **Contribution Award (Top 12%)**. :sparkles: :trophy:
+- 2024.1, **Second Prize** in the 8th National Wargames Competition in Beijing, Tianjin and Hebei Region, Mozi Cup 2024. :sparkles: :trophy:
+- 2023.11, **Second Prize** in the 20th China Graduate Mathematical Modeling Competition "Huawei Cup". :sparkles: :trophy:
+- 2023.9, **Third Prize** in the 7th National Wargame Competition in Beijing, Tianjin, Shanghai and Hebei in 2023 Mozi Cup. :sparkles: :trophy:
+- 2023.8, 2023 International Competition ofAutonomousRunning Robots (Running Robot) **First Prize** (国际自主智能机器人大赛**一等奖**). :sparkles: :trophy:
+
 
 Student Work Experience
 ---
